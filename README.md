@@ -1,6 +1,6 @@
 # py_base
 
-A template Python package that demonstrates best practices for creating and distributing Python packages.
+A template Python package for building Python cool stuff.
 
 ## Installation
 
